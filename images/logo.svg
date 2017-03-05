@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 396 396" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-7067.83,-1733.63)">
+        <g id="PILEA_LOGO" transform="matrix(0.457305,0,0,0.457549,4053.89,1158.7)">
+            <rect x="6590.65" y="1256.55" width="864.232" height="864.232" style="fill:none;"/>
+            <g transform="matrix(2.18672,0,0,2.18556,-8339.09,-1925.88)">
+                <g transform="matrix(3.29338e-17,0.53785,-0.53785,3.29338e-17,7565.15,-3777.96)">
+                    <circle cx="10096.9" cy="1001.99" r="354.418" style="fill:rgb(32,175,93);"/>
+                </g>
+                <g transform="matrix(2.30385e-17,0.376247,-0.376247,2.30385e-17,7403.23,-2091.99)">
+                    <circle cx="10096.9" cy="1001.99" r="354.418" style="fill:rgb(37,206,109);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Barlow|Roboto');
 
 body {
-  font-family: 'Poppins', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Barlow', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 p {
   font-family: 'Roboto', Helvetica, Arial, sans-serif;

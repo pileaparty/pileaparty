@@ -35,13 +35,6 @@ section.main img {
   max-width: 150px;
 }
 
-section.teaser {
-  font-family: 'Roboto', Helvetica, Arial, sans-serif;
-  text-align: center;
-  font-weight: 300;
-  color: #AAA;
-}
-
 section.social ul {
   width: 100%;
   margin-bottom: 0;
